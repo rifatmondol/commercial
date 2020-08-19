@@ -54,7 +54,7 @@ button:focus{
 }
 
 .content-description.content-d{
-	margin: 0;
+	margin-left: 0;
 }
 .content-left-2{
 	background: #00CCCD; 
@@ -75,7 +75,7 @@ button:focus{
   background: #00CCCD;
   width: 16%;
   height: 100%;
-  left: -65px;
+  left: -63px;
   top: 0;
   position: absolute;
   transform: skew(10deg);
